@@ -1,2 +1,2 @@
 # HW3
-![](concordance)
+![](concordance.PNG)
